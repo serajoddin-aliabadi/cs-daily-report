@@ -20,11 +20,11 @@
 ```markdown
 ### 📋 Task #1: name
 
-| Social                 | Link | Date |
-| ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+| Social                 | Link |
+| ---------------------- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |      |
+| ![Twitter](images/twitter-icon.svg)     |      |
 ```
 
 ### 🗓️ Monday (1405-xx-xx)
@@ -66,11 +66,11 @@
 ```markdown
 ### 📋 Task #1: name
 
-| Social                 | Link | Date |
-| ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+| Social                 | Link |
+| ---------------------- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |      |
+| ![Twitter](images/twitter-icon.svg)     |      |
 ```
 
 ### 🗓️ Monday (1405-xx-xx)
@@ -112,11 +112,11 @@
 ```markdown
 ### 📋 Task #1: name
 
-| Social                 | Link | Date |
-| ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+| Social                 | Link |
+| ---------------------- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |      |
+| ![Twitter](images/twitter-icon.svg)     |      |
 ```
 
 ### 🗓️ Monday (1405-xx-xx)
@@ -158,11 +158,11 @@
 ```markdown
 ### 📋 Task #1: name
 
-| Social                 | Link | Date |
-| ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+| Social                 | Link |
+| ---------------------- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |      |
+| ![Twitter](images/twitter-icon.svg)     |      |
 ```
 
 ### 🗓️ Monday (1405-xx-xx)
@@ -204,11 +204,11 @@
 ```markdown
 ### 📋 Task #1: name
 
-| Social                 | Link | Date |
-| ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+| Social                 | Link |
+| ---------------------- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |      |
+| ![Twitter](images/twitter-icon.svg)     |      |
 ```
 
 ### 🗓️ Monday (1405-xx-xx)
@@ -250,11 +250,11 @@
 ```markdown
 ### 📋 Task #1: name
 
-| Social                 | Link | Date |
-| ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+| Social                 | Link |
+| ---------------------- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |      |
+| ![Twitter](images/twitter-icon.svg)     |      |
 ```
 
 ### 🗓️ Monday (1405-xx-xx)
@@ -296,11 +296,11 @@
 ```markdown
 ### 📋 Task #1: name
 
-| Social                 | Link | Date |
-| ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+| Social                 | Link |
+| ---------------------- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |      |
+| ![Twitter](images/twitter-icon.svg)     |      |
 ```
 
 ### 🗓️ Monday (1405-xx-xx)
@@ -342,11 +342,11 @@
 ```markdown
 ### 📋 Task #1: name
 
-| Social                 | Link | Date |
-| ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+| Social                 | Link |
+| ---------------------- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |      |
+| ![Twitter](images/twitter-icon.svg)     |      |
 ```
 
 ### 🗓️ Monday (1405-xx-xx)
@@ -388,11 +388,11 @@
 ```markdown
 ### 📋 Task #1: name
 
-| Social                 | Link | Date |
-| ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+| Social                 | Link |
+| ---------------------- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |      |
+| ![Twitter](images/twitter-icon.svg)     |      |
 ```
 
 ### 🗓️ Monday (1405-xx-xx)
@@ -434,11 +434,11 @@
 ```markdown
 ### 📋 Task #1: name
 
-| Social                 | Link | Date |
-| ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
-| ![LinkedIn](images/linkedin-icon.svg)   |      |      |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
+| Social                 | Link |
+| ---------------------- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |      |
+| ![Twitter](images/twitter-icon.svg)     |      |
 ```
 
 ### 🗓️ Monday (1405-xx-xx)
