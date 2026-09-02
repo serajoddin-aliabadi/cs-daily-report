@@ -18,7 +18,7 @@
 > 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
-### 📋 Task #1: name
+#### 📋 Task #1: name
 
 | Social                 | Link |
 | ---------------------- | ---- |
@@ -64,7 +64,7 @@
 > 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
-### 📋 Task #1: name
+#### 📋 Task #1: name
 
 | Social                 | Link |
 | ---------------------- | ---- |
@@ -110,7 +110,7 @@
 > 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
-### 📋 Task #1: name
+#### 📋 Task #1: name
 
 | Social                 | Link |
 | ---------------------- | ---- |
@@ -156,7 +156,7 @@
 > 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
-### 📋 Task #1: name
+#### 📋 Task #1: name
 
 | Social                 | Link |
 | ---------------------- | ---- |
@@ -202,7 +202,7 @@
 > 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
-### 📋 Task #1: name
+#### 📋 Task #1: name
 
 | Social                 | Link |
 | ---------------------- | ---- |
@@ -248,7 +248,7 @@
 > 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
-### 📋 Task #1: name
+#### 📋 Task #1: name
 
 | Social                 | Link |
 | ---------------------- | ---- |
@@ -294,7 +294,7 @@
 > 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
-### 📋 Task #1: name
+#### 📋 Task #1: name
 
 | Social                 | Link |
 | ---------------------- | ---- |
@@ -340,7 +340,7 @@
 > 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
-### 📋 Task #1: name
+#### 📋 Task #1: name
 
 | Social                 | Link |
 | ---------------------- | ---- |
@@ -386,7 +386,7 @@
 > 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
-### 📋 Task #1: name
+#### 📋 Task #1: name
 
 | Social                 | Link |
 | ---------------------- | ---- |
@@ -432,7 +432,7 @@
 > 💡 **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
 
 ```markdown
-### 📋 Task #1: name
+#### 📋 Task #1: name
 
 | Social                 | Link |
 | ---------------------- | ---- |
