@@ -47,7 +47,7 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### 😊 Weekly Satisfaction Assessment
+### 😊 Overall Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
 | ⏱️ **Total Hours This Week**     | xx of xx hours |
@@ -93,7 +93,7 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### 😊 Weekly Satisfaction Assessment
+### 😊 Overall Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
 | ⏱️ **Total Hours This Week**     | xx of xx hours |
@@ -139,7 +139,7 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### 😊 Weekly Satisfaction Assessment
+### 😊 Overall Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
 | ⏱️ **Total Hours This Week**     | xx of xx hours |
@@ -185,7 +185,7 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### 😊 Weekly Satisfaction Assessment
+### 😊 Overall Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
 | ⏱️ **Total Hours This Week**     | xx of xx hours |
@@ -231,7 +231,7 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### 😊 Weekly Satisfaction Assessment
+### 😊 Overall Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
 | ⏱️ **Total Hours This Week**     | xx of xx hours |
@@ -277,7 +277,7 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### 😊 Weekly Satisfaction Assessment
+### 😊 Overall Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
 | ⏱️ **Total Hours This Week**     | xx of xx hours |
@@ -323,7 +323,7 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### 😊 Weekly Satisfaction Assessment
+### 😊 Overall Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
 | ⏱️ **Total Hours This Week**     | xx of xx hours |
@@ -369,7 +369,7 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### 😊 Weekly Satisfaction Assessment
+### 😊 Overall Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
 | ⏱️ **Total Hours This Week**     | xx of xx hours |
@@ -415,7 +415,7 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### 😊 Weekly Satisfaction Assessment
+### 😊 Overall Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
 | ⏱️ **Total Hours This Week**     | xx of xx hours |
@@ -461,7 +461,7 @@
 | --------------------- | ---------- |
 | [Meeting Description] | YYYY-MM-DD |
 
-### 😊 Weekly Satisfaction Assessment
+### 😊 Overall Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
 | ⏱️ **Total Hours This Week**     | xx of xx hours |
