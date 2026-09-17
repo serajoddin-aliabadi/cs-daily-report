@@ -15,10 +15,10 @@
 
 ## Week 1 Activity
 
-> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
+> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task/Item [No.]` to whatever task or study item that you did.
 
 ```markdown
-#### Task #1: name
+#### 📋 Task/Item [No.] : name
 
 | Social | Link |
 | --- | --- |
@@ -96,10 +96,10 @@
 
 ## Week 2 Activity
 
-> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
+> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task/Item [No.]` to whatever task or study item that you did.
 
 ```markdown
-#### Task #1: name
+#### 📋 Task/Item [No.] : name
 
 | Social | Link |
 | --- | --- |
@@ -177,10 +177,10 @@
 
 ## Week 3 Activity
 
-> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
+> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task/Item [No.]` to whatever task or study item that you did.
 
 ```markdown
-#### Task #1: name
+#### 📋 Task/Item [No.] : name
 
 | Social | Link |
 | --- | --- |
@@ -258,10 +258,10 @@
 
 ## Week 4 Activity
 
-> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
+> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task/Item [No.]` to whatever task or study item that you did.
 
 ```markdown
-#### Task #1: name
+#### 📋 Task/Item [No.] : name
 
 | Social | Link |
 | --- | --- |
@@ -339,10 +339,10 @@
 
 ## Week 5 Activity
 
-> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
+> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task/Item [No.]` to whatever task or study item that you did.
 
 ```markdown
-#### Task #1: name
+#### 📋 Task/Item [No.] : name
 
 | Social | Link |
 | --- | --- |
@@ -420,10 +420,10 @@
 
 ## Week 6 Activity
 
-> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
+> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task/Item [No.]` to whatever task or study item that you did.
 
 ```markdown
-#### Task #1: name
+#### 📋 Task/Item [No.] : name
 
 | Social | Link |
 | --- | --- |
@@ -501,10 +501,10 @@
 
 ## Week 7 Activity
 
-> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
+> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task/Item [No.]` to whatever task or study item that you did.
 
 ```markdown
-#### Task #1: name
+#### 📋 Task/Item [No.] : name
 
 | Social | Link |
 | --- | --- |
@@ -582,10 +582,10 @@
 
 ## Week 8 Activity
 
-> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
+> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task/Item [No.]` to whatever task or study item that you did.
 
 ```markdown
-#### Task #1: name
+#### 📋 Task/Item [No.] : name
 
 | Social | Link |
 | --- | --- |
@@ -663,10 +663,10 @@
 
 ## Week 9 Activity
 
-> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
+> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task/Item [No.]` to whatever task or study item that you did.
 
 ```markdown
-#### Task #1: name
+#### 📋 Task/Item [No.] : name
 
 | Social | Link |
 | --- | --- |
@@ -744,10 +744,10 @@
 
 ## Week 10 Activity
 
-> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task #1` to whatever task or study item that you did.
+> **Snippet:** copy the code block below and paste it under each day you worked. Rename `Task/Item [No.]` to whatever task or study item that you did.
 
 ```markdown
-#### Task #1: name
+#### 📋 Task/Item [No.] : name
 
 | Social | Link |
 | --- | --- |
