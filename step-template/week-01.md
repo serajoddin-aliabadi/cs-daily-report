@@ -1,5 +1,5 @@
 <!-- Week file: fill in Step X and Week N in the title, complete one block per day, commit daily.
-     For a new week, copy week-template.md as week-03.md (week-04.md, ...) and renumber the Week heading.
+     For a new week, copy week-template.md as week-02.md (week-03.md, ...) and renumber the Week heading.
      Keep step folders at the repo root so the icons below resolve. -->
 
 # CS Internship Daily Report - Step X - Week 1

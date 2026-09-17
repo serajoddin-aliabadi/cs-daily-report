@@ -1,4 +1,4 @@
-<!-- Template week file: copy me as week-03.md (week-04.md, ...), then fill in Step X and Week N in the title, complete one block per day, commit daily.
+<!-- Template week file: copy me as week-02.md (week-03.md, ...), then fill in Step X and Week N in the title, complete one block per day, commit daily.
      Keep step folders at the repo root so the icons below resolve. -->
 
 # CS Internship Daily Report - Step X - Week N
