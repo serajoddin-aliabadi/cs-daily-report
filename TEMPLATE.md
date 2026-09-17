@@ -2,14 +2,14 @@
 
 ## Intern Information
 
-| Field | Value |
-| --- | --- |
-| **Intern Name** | [Your Name] |
-| **Coordinator Name** | [Coordinator] |
-| **Step Number** | step X |
-| **Step Document Link** | [paste link here] |
-| **Weekly Committed Time** | xx hours |
-| **Step Deadline** | 1405-xx-xx |
+| Field                     | Value             |
+| ------------------------- | ----------------- |
+| **Intern Name**           | [Your Name]       |
+| **Coordinator Name**      | [Coordinator]     |
+| **Step Number**           | Step [No.]        |
+| **Step Document Link**    | [paste link here] |
+| **Weekly Committed Time** | [xx] hours        |
+| **Step Promise**          | 1405-xx-xx        |
 
 ---
 
