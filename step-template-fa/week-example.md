@@ -7,6 +7,8 @@
 
 ## اطلاعات کارآموز
 
+<div dir="rtl">
+
 | مشخصه | مقدار |
 | ------------------------- | ----------------------------------- |
 | **نام کارآموز**           | علی علوی (نمونه)                    |
@@ -15,6 +17,8 @@
 | **لینک سند استپ**         | https://example.com/step-1-document |
 | **ساعت توافقی هفتگی**     | ۲۰ ساعت                             |
 | **قول استپ (ددلاین)**     | 1405-07-05                          |
+
+</div>
 
 ---
 
@@ -25,11 +29,15 @@
 ```markdown
 #### 📋 تسک / آیتم [شماره] : نام تسک
 
+<div dir="rtl">
+
 | شبکه اجتماعی | لینک |
 | --- | --- |
 | ![تلگرام](../images/telegram-icon.svg) | |
 | ![لینکدین](../images/linkedin-icon.svg) | |
 | ![توییتر](../images/twitter-icon.svg) | |
+
+</div>
 ```
 
 ### دوشنبه (1405-06-23)
@@ -42,11 +50,15 @@
 
 #### 📋 تسک / آیتم ۱ : راه‌اندازی محیط توسعه
 
+<div dir="rtl">
+
 | شبکه اجتماعی | لینک |
 | --- | --- |
 | ![تلگرام](../images/telegram-icon.svg) | https://t.me/cs_internship/1234 |
 | ![لینکدین](../images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
 | ![توییتر](../images/twitter-icon.svg) | https://x.com/[your-handle]/status/1234567890 |
+
+</div>
 
 <br>
 
@@ -61,11 +73,15 @@
 
 #### 📋 تسک / آیتم ۱ : مطالعه مفاهیم پایه‌ای گیت
 
+<div dir="rtl">
+
 | شبکه اجتماعی | لینک |
 | --- | --- |
 | ![تلگرام](../images/telegram-icon.svg) | https://t.me/cs_internship/1235 |
 | ![لینکدین](../images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
 | ![توییتر](../images/twitter-icon.svg) | https://x.com/[your-handle]/status/1234567891 |
+
+</div>
 
 <br>
 
@@ -81,19 +97,27 @@
 
 #### 📋 تسک / آیتم ۱ : پیاده‌سازی ساختار استاتیک صفحه اصلی
 
+<div dir="rtl">
+
 | شبکه اجتماعی | لینک |
 | --- | --- |
 | ![تلگرام](../images/telegram-icon.svg) | https://t.me/cs_internship/1236 |
 | ![لینکدین](../images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
 | ![توییتر](../images/twitter-icon.svg) | https://x.com/[your-handle]/status/1234567892 |
 
+</div>
+
 #### 📋 تسک / آیتم ۲ : مطالعه CSS flexbox
+
+<div dir="rtl">
 
 | شبکه اجتماعی | لینک |
 | --- | --- |
 | ![تلگرام](../images/telegram-icon.svg) | https://t.me/cs_internship/1237 |
 | ![لینکدین](../images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
 | ![توییتر](../images/twitter-icon.svg) | https://x.com/[your-handle]/status/1234567893 |
+
+</div>
 
 <br>
 
@@ -109,11 +133,15 @@
 
 #### 📋 تسک / آیتم ۱ : رفع باگ ریسپانسیو لایه‌بندی
 
+<div dir="rtl">
+
 | شبکه اجتماعی | لینک |
 | --- | --- |
 | ![تلگرام](../images/telegram-icon.svg) | https://t.me/cs_internship/1238 |
 | ![لینکدین](../images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
 | ![توییتر](../images/twitter-icon.svg) | https://x.com/[your-handle]/status/1234567894 |
+
+</div>
 
 <br>
 
@@ -138,11 +166,15 @@
 
 #### 📋 تسک / آیتم ۱ : پیاده‌سازی اعتبارسنجی فرم تماس
 
+<div dir="rtl">
+
 | شبکه اجتماعی | لینک |
 | --- | --- |
 | ![تلگرام](../images/telegram-icon.svg) | https://t.me/cs_internship/1239 |
 | ![لینکدین](../images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
 | ![توییتر](../images/twitter-icon.svg) | https://x.com/[your-handle]/status/1234567895 |
+
+</div>
 
 <br>
 
@@ -157,18 +189,27 @@
 
 #### 📋 تسک / آیتم ۱ : برنامه‌ریزی هفته‌ی بعد و ریفکتور استایل‌های مشترک CSS
 
+<div dir="rtl">
+
 | شبکه اجتماعی | لینک |
 | --- | --- |
 | ![تلگرام](../images/telegram-icon.svg) | https://t.me/cs_internship/1240 |
 | ![لینکدین](../images/linkedin-icon.svg) | https://www.linkedin.com/posts/[your-post-id] |
 | ![توییتر](../images/twitter-icon.svg) | https://x.com/[your-handle]/status/1234567896 |
 
+</div>
+
 <br>
 
 ---
 
 ### ارزیابی کلی هفته
+
+<div dir="rtl">
+
 | معیار ارزیابی | مقدار |
 | --- | --- |
 | **مجموع ساعات این هفته** | 20 از 20 ساعت |
 | **رضایت کلی** | 85% |
+
+</div>
